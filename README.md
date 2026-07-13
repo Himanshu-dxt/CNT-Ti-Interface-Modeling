@@ -50,7 +50,15 @@ CNT-Ti-Interface-Modeling/
 │
 └── docs/
     └── images/                         # VESTA screenshots of the models
-        └── final_sandwich_view.png
+        ├── 10,5_CNT.png
+        ├── CNT_Ti_interface_front_view.png
+        ├── CNT_Ti_interface_side_view.png
+        ├── Ti_slab_front_view.png
+        ├── Ti_slab_side_view.png
+        ├── Ti_slab_top_view.png
+        ├── ti_tic_cnt_sandwich_FINAL_side_view.png
+        ├── ti_tic_cnt_sandwich_THIN_side_view.png
+        └── ti_tic_cnt_sandwich_side_view.png
 ```
 
 ---
