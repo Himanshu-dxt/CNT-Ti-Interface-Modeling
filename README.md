@@ -15,8 +15,6 @@ The workflow leverages open-source tools: `pymatgen` for structure manipulation[
 - **Open and Reproducible:** All code is provided in Python notebooks and scripts.
 
 ## File Structure
-- `notebooks/`: Contains the main Jupyter/Colab notebook used to build the model.
-- `scripts/`: Python scripts for modular use.
 - `structures/`: Final `.cif` files of the CNT, Ti slab, and the assembled interface.
 - `docs/images/`: Visualization of the final structure (e.g., VESTA screenshots).
 
@@ -34,4 +32,4 @@ The final model consists of a **548-atom** system (128 Ti + 420 C). The structur
 - Extend the model to study other contact metals (e.g., Pd, Au).
 
 ## Acknowledgments
-This work was conducted independently as a student project at [Your College Name].
+This work was conducted independently as a student project at Government Engineering College, Ajmer.
