@@ -1,0 +1,4 @@
+pymatgen
+ase
+numpy
+mace-torch
