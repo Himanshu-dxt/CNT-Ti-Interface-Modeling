@@ -17,6 +17,8 @@ The primary objectives are to provide validated, publication-ready geometries fo
 
 | Model | Description | Atoms | File |
 | :--- | :--- | :--- | :--- |
+
+| **Ni-NiC-CNT** | Ni slab + NiC bilayer + CNT(10,5) | ~1100 | `interface_NiC.cif` |
 | **Simple Ti-CNT Interface** | CNT(10,5) on Ti(0001) surface at 2.1 Å gap. | 548 | `ti_cnt_10_5_interface.cif` |
 | **TiC Mediated Interface (Thick)** | CNT on TiC(111) (thick slab) on Ti. | 1196 | `ti_tic_cnt_sandwich.cif` |
 | **TiC Mediated Interface (Thin)** | CNT on TiC(111) (thin slab) on Ti. | 710 | `ti_tic_cnt_sandwich_THIN.cif` |
