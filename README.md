@@ -49,6 +49,8 @@ CNT-Ti-Interface-Modeling/
 │   ├── ti_tic_cnt_sandwich.cif
 │   ├── ti_tic_cnt_sandwich_THIN.cif
 │   ├── ti_tic_cnt_sandwich_FINAL.cif
+|   ├── ti_slab.cif
+|   ├── cnt_10_5_lenght4.cif
 |   └── interface_Ni_structure.cif
 │
 └── docs/
