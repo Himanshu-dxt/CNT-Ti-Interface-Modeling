@@ -41,13 +41,15 @@ CNT-Ti-Interface-Modeling/
 │   ├── 1_ti_cnt_10_5_interface.py      # Builds the simple Ti-CNT interface
 │   ├── 2_ti_tic_cnt_sandwich.py        # Builds the thick TiC model
 │   ├── 3_ti_tic_cnt_sandwich_THIN.py   # Builds the thin TiC model
-│   └── 4_ti_tic_cnt_sandwich_FINAL.py  # Builds the final bilayer sandwich (886 atoms)
+│   ├── 4_ti_tic_cnt_sandwich_FINAL.py  # Builds the final bilayer sandwich (886 atoms)
+|   └── 5_build_ni_interface.py
 │
 ├── structures/                         # Final .cif files for visualization
 │   ├── ti_cnt_10_5_interface.cif
 │   ├── ti_tic_cnt_sandwich.cif
 │   ├── ti_tic_cnt_sandwich_THIN.cif
-│   └── ti_tic_cnt_sandwich_FINAL.cif
+│   ├── ti_tic_cnt_sandwich_FINAL.cif
+|   └── interface_Ni_structure.cif
 │
 └── docs/
     └── images/                         # VESTA screenshots of the models
