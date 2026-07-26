@@ -56,6 +56,7 @@ CNT-Ti-Interface-Modeling/
 └── docs/
     └── images/                         # VESTA screenshots of the models
         ├── 10,5_CNT.png
+        ├── Ni-NiC-CNT.png
         ├── CNT_Ti_interface_front_view.png
         ├── CNT_Ti_interface_side_view.png
         ├── Ti_slab_front_view.png
